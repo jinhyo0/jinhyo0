@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fde7e7&height=200&text=jinhyo%kim&animation=fadeIn&fontColor=121212&align=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fde7e7&height=200&text=jinhyo%kim&animation=fadeIn&fontColor=fff&align=center)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
