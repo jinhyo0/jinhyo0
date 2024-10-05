@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=fde7e7&height=200&text=jinhyo%kim&animation=fadeIn&fontColor=121212&align=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fde7e7&height=200&text=jinhyo%kim&animation=fadeIn&fontColor=121212&align=center)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -37,3 +37,5 @@
       src="https://img.shields.io/badge/kjhyo0220@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=f99a9a&align=center)
