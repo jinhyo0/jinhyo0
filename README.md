@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=fde7e7&height=200&text=jinhyo%kim&animation=fadeIn&fontColor=121212&align=center)
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
